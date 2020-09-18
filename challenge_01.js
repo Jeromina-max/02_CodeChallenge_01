@@ -45,8 +45,10 @@ console.log("Die Summe der Zahlen ist: " + summe);
 // Kompakt, aber schlecht lesbar
 /* 
 console.log("Die Summe der Zahlen ist: " + 
-(parseInt(prompt("Zahl 1 eingeben")) + 
-parseInt(prompt("Zahl 2 eingeben")))
+(
+    parseInt(prompt("Zahl 1 eingeben")) + 
+    parseInt(prompt("Zahl 2 eingeben"))
+)
 );
  */
 
